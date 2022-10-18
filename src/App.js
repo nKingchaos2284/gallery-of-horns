@@ -1,15 +1,21 @@
-//imports
+// imports
 import React from 'react';
-
-
-//class component
-
-class App extends React.Component {
+import './App.css';
+import Header from './Header';
+import Main from './Main';
+import Footer from './Footer';
+// class component
+class App extends React.Component{
   render(){
-    return <h1>Gallery of Horns</h1>
+    return (
+      <>
+      <Header />
+      <Main />
+      <Footer />
+      </>
+    )
   }
 }
 
-//export
-
+// export
 export default App;
