@@ -1,0 +1,10 @@
+#contain{
+  width: 100% !important;
+  margin: 10px !important
+}
+#row{
+  justify-content: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
