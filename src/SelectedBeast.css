@@ -1,0 +1,15 @@
+#modal{
+  width: auto;
+  min-height: auto;
+}
+#modalTitle{
+  display: flex;
+  margin-left: 13vw;
+}
+#modalImg{
+  width: 20vw;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
